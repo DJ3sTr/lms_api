@@ -1,0 +1,122 @@
+[
+    {
+        "id": "ARS",
+        "alias": "Arsenal",
+        "name": "Arsenal",
+        "logo": "/images/logos/Arsenal.svg"
+    },
+    {
+        "id": "AVL",
+        "alias": "Aston Villa",
+        "name": "Aston Villa",
+        "logo": "/images/logos/Aston_Villa.svg"
+    },
+    {
+        "id": "BOU",
+        "alias": "Bournemouth",
+        "name": "Bournemouth",
+        "logo": "/images/logos/Bournemouth.svg"
+    },
+    {
+        "id": "BRE",
+        "alias": "Brentford",
+        "name": "Brentford",
+        "logo": "/images/logos/Brentford.svg"
+    },
+    {
+        "id": "BHA",
+        "alias": "Brighton",
+        "name": "Brighton",
+        "logo": "/images/logos/Brighton.svg"
+    },
+    {
+        "id": "BUR",
+        "alias": "Burnley",
+        "name": "Burnley",
+        "logo": "/images/logos/Burnley.svg"
+    },
+    {
+        "id": "CHE",
+        "alias": "Chelsea",
+        "name": "Chelsea",
+        "logo": "/images/logos/Chelsea.svg"
+    },
+    {
+        "id": "CRY",
+        "alias": "Crystal Palace",
+        "name": "Crystal Palace",
+        "logo": "/images/logos/Crystal_Palace.svg"
+    },
+    {
+        "id": "EVE",
+        "alias": "Everton",
+        "name": "Everton",
+        "logo": "/images/logos/Everton.svg"
+    },
+    {
+        "id": "FUL",
+        "alias": "Fulham",
+        "name": "Fulham",
+        "logo": "/images/logos/Fulham.svg"
+    },
+    {
+        "id": "LIV",
+        "alias": "Liverpool",
+        "name": "Liverpool",
+        "logo": "/images/logos/Liverpool.svg"
+    },
+    {
+        "id": "LTN",
+        "alias": "Luton",
+        "name": "Luton Town",
+        "logo": "/images/logos/Luton.svg"
+    },
+    {
+        "id": "MCY",
+        "alias": "Man City",
+        "name": "Manchester City",
+        "logo": "/images/logos/Manchester_City.svg"
+    },
+    {
+        "id": "MUN",
+        "alias": "Man Utd",
+        "name": "Manchester United",
+        "logo": "/images/logos/Manchester_United.svg"
+    },
+    {
+        "id": "NEW",
+        "alias": "Newcastle",
+        "name": "Newcastle",
+        "logo": "/images/logos/Newcastle.svg"
+    },
+    {
+        "id": "FOR",
+        "alias": "Nottingham Forest",
+        "name": "Nottingham Forest",
+        "logo": "/images/logos/Nottingham_Forest.svg"
+    },
+    {
+        "id": "SHU",
+        "alias": "Sheffield Utd",
+        "name": "Sheffield United",
+        "logo": "/images/logos/Sheffield_United.svg"
+    },
+    {
+        "id": "TOT",
+        "alias": "Spurs",
+        "name": "Tottenham",
+        "logo": "/images/logos/Tottenham.svg"
+    },
+    {
+        "id": "WHU",
+        "alias": "West Ham",
+        "name": "West Ham",
+        "logo": "/images/logos/West_Ham.svg"
+    },
+    {
+        "id": "WOL",
+        "alias": "Wolves",
+        "name": "Wolves",
+        "logo": "/images/logos/Wolves.svg"
+    }
+]
